@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yqzzf.cn/sitemap.xml

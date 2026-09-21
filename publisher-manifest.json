@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b3e6838d36bd5b510bac9948",
+  "owner": "tpgkwnxj3",
+  "repo": "page-c6b5a0af87f7370ad0eca990",
+  "title": "极简",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c6b5a0af87f7370ad0eca990",
+      "a": "极简",
+      "b": "机场官网线路发布页",
+      "entity": "极简",
+      "brand": "极简",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d72851e9876e551ca190a3e35536c267c565f6c272b2e2e9229264cbb5a3e3f",
+      "content": {
+        "primary_entity": "极简",
+        "keyword1": "极简",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕轻量订阅与多设备适配提供基础版、旗舰版和团队版三档套餐。基础版每月 100GB 流量、3 台设备，旗舰版每月 300GB 流量、5 台设备并支持 IPLC 专线，团队版每月 1000GB 流量、20 台设备，年付分别只需 ¥150、¥350、¥850，按需选择更省心。",
+          "AI_HERO_SUBTITLE": "轻量订阅，按需选套餐",
+          "AI_HERO_INTRO": "极简提供基础版、旗舰版与团队版三档海外加速套餐，覆盖从个人轻度使用到多人团队共享的不同场景。按设备数量和月流量选择版本，即可快速接入轻量订阅体验。",
+          "AI_VISUAL_TITLE": "极简套餐，按需选",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付低至每月约 ¥12.5",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "从设备数量与月流量出发，挑选适合的订阅版本。",
+          "AI_FEATURE_TITLE_1": "按设备选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量配周期",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，年付价格分别为 ¥150、¥350、¥850。",
+          "AI_FEATURE_TITLE_3": "按场景挑线路",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速，团队版支持企业定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据常用设备选择对应客户端，订阅导入方式以客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备与游戏加速，团队版适合大流量共享。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "按设备与流量需求选择套餐后，参照客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从基础版、旗舰版或团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认使用设备的操作系统与客户端支持情况，查看对应适配要求。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "按照客户端文档添加订阅信息，完成后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "极简不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并支持 IPLC 专线；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于省下两个月费用。",
+          "AI_FAQ_QUESTION_3": "一个订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时部分设备可能需要等待或升级套餐。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在购买后获取订阅链接，打开对应客户端选择从链接添加或手动粘贴订阅地址，保存后更新节点列表即可使用。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量和 20 台设备支持，适合小型工作室、多人协作或需要企业定制路由的团队使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松接入",
+          "AI_CLOSING_TEXT": "根据设备与流量需求挑选版本，按客户端文档完成订阅导入即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yqzzf.cn",
+    "host": "yqzzf.cn"
+  },
+  "file_hashes": {
+    "index.html": "1d06932fe7c8b396e615cd50b5759e2e697aef601a2ff2adc2ac357c0738a122",
+    "sitemap.xml": "4772e444be3026149324c1f2d4c877847757d4bb2a7a49ff0ed5fedd68283922",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bcef3cb26ae8d462bb8993780e761e4a0800b13ae6dabc8f236854435e8fdfcc",
+    "robots.txt": "174a02eccfbc5f0211cd7ced9e825e94bc82b542a68c4db5d9ff672cc11922f5",
+    "8005fd8ca19151a5a95324f18aabfed1.txt": "03e60a72dfe09c19cc3bdfb743ad987c98e1fed5834b985eebc6773cc735c5b9"
+  },
+  "revision": "a2047a4a42306986218e44a00e2a88bc3bdb476853bc0555a72fb0496e3abb48"
+}
